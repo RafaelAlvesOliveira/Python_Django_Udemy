@@ -6,7 +6,7 @@ __pycache__/
 configurações_locais.py
 db.sqlite3
 db.sqlite3-diário
-mídia
+static_files
 
 # Se o seu processo de construção inclui a execução de collectstatic, então você provavelmente não precisa ou deseja incluir staticfiles/
 # no seu repositório Git. Atualize e descomente a linha a seguir conforme necessário.
